@@ -1,3 +1,3 @@
 # Lua-Bitcoin-Miner
 
-Written some time in 2015
+Written some time in 2015-2016
